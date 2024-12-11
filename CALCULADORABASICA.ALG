@@ -1,7 +1,4 @@
 Algoritmo "calculadorabasica"
-// Construa um algoritmo para ler dois números. Em seguida, calcule a soma, a subtração,
-//a multiplicação e a divisão desses números, armazenando os resultados em outras variáveis.
-//Imprimir os dados iniciais e os resultados.
 
 Var
    valor1, valor2, soma, subtracao, multiplicacao, divisao: real
